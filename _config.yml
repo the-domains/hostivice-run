@@ -1,0 +1,28 @@
+name: Hostivice RUN
+favicon: null
+layout_spectrum: 0.5960713753011078
+typography_spectrum: 0.19966661068610847
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5763109996914864
+  lightness: 0.9537590630352497
+  saturation: 0.04558153776451945
+  rhythmicContrast: 0.11278551747091115
+purpose: []
